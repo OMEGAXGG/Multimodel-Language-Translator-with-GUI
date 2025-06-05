@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>RecentTranslationsPage.qml</file>
+	<file>detail.qml</file>
+	<file>Credits.qml</file>
+	<file>ReportPage.qml</file>
+    </qresource>
+</RCC>

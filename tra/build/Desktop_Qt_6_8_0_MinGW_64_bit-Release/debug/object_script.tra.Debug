@@ -1,0 +1,10 @@
+debug/main.o
+debug/translator.o
+debug/ReportPage_qml.o
+debug/detail_qml.o
+debug/Credits_qml.o
+debug/RecentTranslationsPage_qml.o
+debug/main_qml.o
+debug/qmlcache_loader.o
+debug/qrc_qml_qmlcache.o
+debug/moc_translator.o

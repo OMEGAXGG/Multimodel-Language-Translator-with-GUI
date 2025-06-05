@@ -1,0 +1,10 @@
+release/main.o
+release/translator.o
+release/ReportPage_qml.o
+release/detail_qml.o
+release/Credits_qml.o
+release/RecentTranslationsPage_qml.o
+release/main_qml.o
+release/qmlcache_loader.o
+release/qrc_qml_qmlcache.o
+release/moc_translator.o

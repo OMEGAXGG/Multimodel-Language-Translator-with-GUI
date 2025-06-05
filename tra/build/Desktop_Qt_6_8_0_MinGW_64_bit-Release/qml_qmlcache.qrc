@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">../../main.qml</file>
+        <file alias="RecentTranslationsPage.qml">../../RecentTranslationsPage.qml</file>
+        <file alias="detail.qml">../../detail.qml</file>
+        <file alias="Credits.qml">../../Credits.qml</file>
+        <file alias="ReportPage.qml">../../ReportPage.qml</file>
+    </qresource>
+</RCC>
