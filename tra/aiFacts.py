@@ -24,7 +24,7 @@ sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
 db = TranslationDatabase()
 
 # Groq API Configuration
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "API Key"
 
 def get_facts_about_language(language_code):
     try:
